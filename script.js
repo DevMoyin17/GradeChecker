@@ -25,6 +25,10 @@ function gradechecker() {
             showGrade.innerHTML = 'F-Poor 😢'
             showGrade.style.color = 'red'
         }
+        else {
+            //  if(score == '')
+            showGrade.innerHTML = 'Not recognised'
+        }
         
         inp.value = ''
     }   

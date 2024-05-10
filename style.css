@@ -104,5 +104,6 @@ text-align: center;
     #showGrade{
         margin-left: 50px;
         width: 200px;
+        padding: 15px;
     }
 }
