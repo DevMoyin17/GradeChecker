@@ -7,6 +7,7 @@
     font-family: "Roboto", sans-serif;
 }
  body{
+   overflow-x: hidden;
     background: linear-gradient(to right, #ec77ab 0%, #7873f5 100%);
 }
     #gradeContainer{
